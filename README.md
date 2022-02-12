@@ -1,6 +1,6 @@
 # 🌊 Mon portfolio
 
-Voila voila, bienvenue sur mon portfolio, je ferais le Readme plus tard, là, je vais me coucher... ^^
+⚠ Ceci est mon ancien portfolio, le nouveau est disponible ici 👉 [mariusproton.fr]
 
 ## 📄 Page du site :
 
